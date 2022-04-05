@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "244c6d8a-40b1-4803-8710-6963e4ad910f": {
+      "ProjectGuid": "244c6d8a-40b1-4803-8710-6963e4ad910f",
+      "DisplayName": "ZooAPI",
+      "ColorIndex": 0
+    },
+    "1aff27d7-a4b9-4305-9ad2-8f45e2cf6456": {
+      "ProjectGuid": "1aff27d7-a4b9-4305-9ad2-8f45e2cf6456",
+      "DisplayName": "ZooAPI.Domain",
+      "ColorIndex": 1
+    },
+    "d30e1697-90d7-429f-8c24-c786cf21f442": {
+      "ProjectGuid": "d30e1697-90d7-429f-8c24-c786cf21f442",
+      "DisplayName": "ZooAPI.Infrastructure",
+      "ColorIndex": 2
+    },
+    "c8783279-5262-402a-addc-27dcc03626ef": {
+      "ProjectGuid": "c8783279-5262-402a-addc-27dcc03626ef",
+      "DisplayName": "ZooAPI.Command",
+      "ColorIndex": 3
+    },
+    "9e1e2ad9-54e8-4e60-abce-7d0d6a594973": {
+      "ProjectGuid": "9e1e2ad9-54e8-4e60-abce-7d0d6a594973",
+      "DisplayName": "ZooAPI.Query",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

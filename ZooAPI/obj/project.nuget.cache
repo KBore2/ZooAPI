@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PC+UP0oYQIDHtofcO/FxW9R/BiYn4Ofm4e2E4D23osUorL1VQX1LmFTTZkHJSOxB9iwxEY/QzBzdytknen+p8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KBore\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
