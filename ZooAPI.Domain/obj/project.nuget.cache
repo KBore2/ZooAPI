@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "i4VJdgTlCKHFt0FzoOOqI8jnb1/0KEreem007S8dKvyHtSQvAL1JJuu0KUM7zTk5hRy5VhJCP7ZAH62sI+Hifg==",
+  "dgSpecHash": "pUsjHfFJTnnimlAYFj3E4V6J7gGqn2Teyg7fp4JqZtRmUjjIdHIF/LL2ChmCBPCeTO+Lp7/Fi0+AZCbDXW5S9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Domain\\ZooAPI.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Domain\\ZooAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KBore\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

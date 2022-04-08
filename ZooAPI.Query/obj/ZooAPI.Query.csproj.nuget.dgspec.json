@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KBore\\source\\repos\\ZooAPI.Query\\ZooAPI.Query.csproj": {}
+    "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Query\\ZooAPI.Query.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KBore\\source\\repos\\ZooAPI.Query\\ZooAPI.Query.csproj": {
+    "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Query\\ZooAPI.Query.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Query\\ZooAPI.Query.csproj",
+        "projectUniqueName": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Query\\ZooAPI.Query.csproj",
         "projectName": "ZooAPI.Query",
-        "projectPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Query\\ZooAPI.Query.csproj",
+        "projectPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Query\\ZooAPI.Query.csproj",
         "packagesPath": "C:\\Users\\KBore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Query\\obj\\",
+        "outputPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Query\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KBore\\AppData\\Roaming\\NuGet\\NuGet.Config",

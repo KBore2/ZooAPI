@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tEPQhThlGQhYlQNQqO2BjkQHWGCFqVvqKAkdmpWNhLDwaj0hUo9hG7flTPhs6fT86Ak11u4tH1/3qJXdzCgyhQ==",
+  "dgSpecHash": "z+9AdNneva2lA8rmmI98Kl36605AWx+7ImW5fo4VsCqffi5taf1O1LRBSpbmqFxcq9u/PytGwd9SGGCz/gz5vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Command\\ZooAPI.Command.csproj",
+  "projectFilePath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Command\\ZooAPI.Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

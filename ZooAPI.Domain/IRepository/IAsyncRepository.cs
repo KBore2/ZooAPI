@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MediatR;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -14,9 +15,9 @@ namespace ZooAPI.Domain.IRepository
 
         public Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> expression);
 
-        public Task<TEntity?> Update(TEntity entity);
+        public Task<TEntity?> UpdateAsync(Expression<Func<TEntity, bool>> expression, TEntity entity);
 
-        public Task<List<TEntity>?> DeleteAsync(Expression<Func<TEntity, bool>> expression);
+        public Task<Unit?> DeleteAsync(Expression<Func<TEntity, bool>> expression);
 
         public Task<List<TEntity>> ListAsync();
 

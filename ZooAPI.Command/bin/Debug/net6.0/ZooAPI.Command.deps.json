@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZooAPI.Command/1.0.0": {
+        "runtime": {
+          "ZooAPI.Command.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZooAPI.Command/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

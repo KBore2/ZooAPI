@@ -1,0 +1,11 @@
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\bin\Debug\net6.0\ZooAPI.Query.deps.json
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\bin\Debug\net6.0\ZooAPI.Query.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\bin\Debug\net6.0\ref\ZooAPI.Query.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\bin\Debug\net6.0\ZooAPI.Query.pdb
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ZooAPI.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ZooAPI.Query.AssemblyInfoInputs.cache
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ZooAPI.Query.AssemblyInfo.cs
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ZooAPI.Query.csproj.CoreCompileInputs.cache
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ZooAPI.Query.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ref\ZooAPI.Query.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Query\obj\Debug\net6.0\ZooAPI.Query.pdb

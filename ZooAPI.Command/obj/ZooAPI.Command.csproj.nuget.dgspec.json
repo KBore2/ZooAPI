@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KBore\\source\\repos\\ZooAPI.Command\\ZooAPI.Command.csproj": {}
+    "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Command\\ZooAPI.Command.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KBore\\source\\repos\\ZooAPI.Command\\ZooAPI.Command.csproj": {
+    "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Command\\ZooAPI.Command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Command\\ZooAPI.Command.csproj",
+        "projectUniqueName": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Command\\ZooAPI.Command.csproj",
         "projectName": "ZooAPI.Command",
-        "projectPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Command\\ZooAPI.Command.csproj",
+        "projectPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Command\\ZooAPI.Command.csproj",
         "packagesPath": "C:\\Users\\KBore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI.Command\\obj\\",
+        "outputPath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.Command\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KBore\\AppData\\Roaming\\NuGet\\NuGet.Config",

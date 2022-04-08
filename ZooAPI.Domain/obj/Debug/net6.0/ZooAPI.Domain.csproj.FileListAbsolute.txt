@@ -1,0 +1,12 @@
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\bin\Debug\net6.0\ZooAPI.Domain.deps.json
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\bin\Debug\net6.0\ZooAPI.Domain.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\bin\Debug\net6.0\ref\ZooAPI.Domain.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\bin\Debug\net6.0\ZooAPI.Domain.pdb
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.AssemblyInfo.cs
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ref\ZooAPI.Domain.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI.Domain\obj\Debug\net6.0\ZooAPI.Domain.pdb
