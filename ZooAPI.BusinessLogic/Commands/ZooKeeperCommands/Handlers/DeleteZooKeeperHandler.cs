@@ -21,6 +21,9 @@ namespace ZooAPI.BusinessLogic.Commands.ZooKeeperCommands.Handlers
 
         public async Task<Unit> Handle(DeleteZooKeeperCommand request, CancellationToken cancellationToken)
         {
+            
+            //updateAsync is used as this is a soft delete
+            //hence we only update the IsDeleted field
             await repository.UpdateAsync(z => z.Id == request.ZooKeeper.Id, request.ZooKeeper);
             return Unit.Value;
         }

@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Queries\ZooKeeperQueries\Handlers\" />
-    <Folder Include="Queries\ZooKeeperQueries\Queries\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ZooAPI.Domain\ZooAPI.Domain.csproj" />
   </ItemGroup>
 
