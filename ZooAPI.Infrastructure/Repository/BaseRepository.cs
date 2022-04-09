@@ -21,14 +21,14 @@ namespace ZooAPI.Infrastructure.Repository
             this.dbContext = dbContext;
             dbSet = dbContext.Set<TEntity>();
         }
-        public async Task<List<TEntity>> AddAsync(TEntity entity)
+        public async Task<TEntity> AddAsync(TEntity entity)
         {
             await dbSet.AddAsync(entity);
             dbContext.SaveChanges();
-            return await dbSet.ToListAsync();
+            return entity;
         }
 
-        public async Task<Unit?> DeleteAsync(Expression<Func<TEntity, bool>> expression)
+        public async Task<object?> DeleteAsync(Expression<Func<TEntity, bool>> expression)
         {
             var response = await dbSet.Where(expression).FirstAsync();
             if (response == null)
@@ -36,7 +36,7 @@ namespace ZooAPI.Infrastructure.Repository
 
             dbContext.Remove(response);
             dbContext.SaveChanges();
-            return Unit.Value;
+            return response;
         }
 
         public async Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> expression)

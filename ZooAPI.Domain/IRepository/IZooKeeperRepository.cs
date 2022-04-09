@@ -5,10 +5,11 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using ZooAPI.Domain.Models;
 
 namespace ZooAPI.Domain.IRepository
 {
-    public interface IZooKeperRepository<TEntity> where TEntity : class
+    public interface IZooKeeperRepository : IAsyncRepository<ZooKeeper>
     {
 
     }

@@ -11,13 +11,13 @@ namespace ZooAPI.Domain.IRepository
     public interface IAsyncRepository<TEntity> where TEntity : class
     {
 
-        public Task<List<TEntity>> AddAsync(TEntity entity);
+        public Task<TEntity> AddAsync(TEntity entity);
 
         public Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> expression);
 
         public Task<TEntity?> UpdateAsync(Expression<Func<TEntity, bool>> expression, TEntity entity);
 
-        public Task<Unit?> DeleteAsync(Expression<Func<TEntity, bool>> expression);
+        public Task<object?> DeleteAsync(Expression<Func<TEntity, bool>> expression);
 
         public Task<List<TEntity>> ListAsync();
 

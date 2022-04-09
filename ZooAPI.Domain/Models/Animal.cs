@@ -14,5 +14,7 @@ namespace ZooAPI.Domain.Models
 
         public string Type { get; set; } = string.Empty;
 
+        public bool IsDeleted { get; set; }
+
     }
 }

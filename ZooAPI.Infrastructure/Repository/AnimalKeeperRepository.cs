@@ -12,7 +12,7 @@ using ZooAPI.Domain.Models;
 
 namespace ZooAPI.Infrastructure.Repository
 {
-    public class AnimalKeeperRepository : BaseRepository<AnimalKeeper>
+    public class AnimalKeeperRepository : BaseRepository<AnimalKeeper>, IAnimalKeeperRepository
     {
 
         public AnimalKeeperRepository(ZooDbContext dbContext) : base(dbContext)

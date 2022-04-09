@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlsiOSuJHcmNRxAJf9OjVILVhQ9WrWcH812gO0+TNJfcMgYQsxSw78CE+J2OWo1VQiKu6dWUljKwBVtvmRl6qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KBore\\source\\repos\\ZooAPI\\ZooAPI.BusinessLogic\\ZooAPI.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KBore\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\KBore\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

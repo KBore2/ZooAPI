@@ -7,11 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="JWT\" />
+    <Folder Include="Queries\ZooKeeperQueries\Handlers\" />
+    <Folder Include="Queries\ZooKeeperQueries\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="MediatR" Version="10.0.1" />
+    <ProjectReference Include="..\ZooAPI.Domain\ZooAPI.Domain.csproj" />
   </ItemGroup>
 
 </Project>

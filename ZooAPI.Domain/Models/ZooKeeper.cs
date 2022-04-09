@@ -16,5 +16,7 @@ namespace ZooAPI.Domain.Models
 
         public int Salary { get; set; }
 
+        public bool IsDeleted { get; set; }
+
     }
 }
