@@ -25,6 +25,13 @@ builder.Services.AddDbContext<ZooDbContext>(
         options.UseSqlServer(builder.Configuration.GetConnectionString("DockerConnection"));
     });
 
+builder.Services.AddStackExchangeRedisCache(
+    options =>
+    {
+        options.Configuration = builder.Configuration.GetConnectionString("Redis");
+        options.InstanceName = "ZooAPI_";
+    });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

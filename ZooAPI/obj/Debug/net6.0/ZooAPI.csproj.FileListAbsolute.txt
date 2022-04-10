@@ -63,3 +63,7 @@ C:\Users\KBore\source\repos\ZooAPI\ZooAPI\obj\Debug\net6.0\ZooAPI.dll
 C:\Users\KBore\source\repos\ZooAPI\ZooAPI\obj\Debug\net6.0\ref\ZooAPI.dll
 C:\Users\KBore\source\repos\ZooAPI\ZooAPI\obj\Debug\net6.0\ZooAPI.pdb
 C:\Users\KBore\source\repos\ZooAPI\ZooAPI\obj\Debug\net6.0\ZooAPI.genruntimeconfig.cache
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI\bin\Debug\net6.0\ZooAPI.BusinessLogic.dll
+C:\Users\KBore\source\repos\ZooAPI\ZooAPI\bin\Debug\net6.0\ZooAPI.BusinessLogic.pdb

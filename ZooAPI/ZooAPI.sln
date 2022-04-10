@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZooAPI.Domain", "..\ZooAPI.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZooAPI.Infrastructure", "..\ZooAPI.Infrastructure\ZooAPI.Infrastructure.csproj", "{D30E1697-90D7-429F-8C24-C786CF21F442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooAPI.BusinessLogic", "..\ZooAPI.BusinessLogic\ZooAPI.BusinessLogic.csproj", "{EACC7AAA-6744-4004-836E-B9FCFE2E5E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZooAPI.BusinessLogic", "..\ZooAPI.BusinessLogic\ZooAPI.BusinessLogic.csproj", "{EACC7AAA-6744-4004-836E-B9FCFE2E5E6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,7 +22,6 @@ Global
 		{244C6D8A-40B1-4803-8710-6963E4AD910F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{244C6D8A-40B1-4803-8710-6963E4AD910F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1AFF27D7-A4B9-4305-9AD2-8F45E2CF6456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1AFF27D7-A4B9-4305-9AD2-8F45E2CF6456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AFF27D7-A4B9-4305-9AD2-8F45E2CF6456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AFF27D7-A4B9-4305-9AD2-8F45E2CF6456}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D30E1697-90D7-429F-8C24-C786CF21F442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
